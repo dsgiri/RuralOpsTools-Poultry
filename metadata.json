@@ -1,0 +1,6 @@
+{
+  "name": "Poultry by RuralOpsTools",
+  "description": "Daily logs, coop conditions, and flock health tracking. Free and ad-supported.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
